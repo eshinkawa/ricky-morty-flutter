@@ -17,7 +17,7 @@ class CharacterCard extends StatelessWidget {
     return GestureDetector(
       onTap: () => {},
       child: Container(
-        padding: EdgeInsets.fromLTRB(0, 10, 0, 10),
+        padding: EdgeInsets.fromLTRB(24, 12, 24, 12),
         child: Row(children: <Widget>[
           Expanded(
             flex: 3,
