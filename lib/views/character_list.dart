@@ -47,7 +47,7 @@ class _CharactersListState extends State<CharactersList> {
                 title: Text(
                   'R&M Characters List',
                   style: TextStyle(
-                      fontFamily: 'IBMPlexSans-SemiBold', fontSize: 18),
+                      fontFamily: 'IBMPlexSans', fontSize: 18),
                 ),
               ),
             ),
@@ -58,6 +58,7 @@ class _CharactersListState extends State<CharactersList> {
                   id: characters[index].id,
                   species: characters[index].species,
                   status: characters[index].status,
+                  index: index
                 ),
                 childCount: characters.length,
               ),
