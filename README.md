@@ -3,8 +3,8 @@
 Flutter project consuming Ricky and Mort API (https://rickandmortyapi.com/)
 
 <p align="center">
-  <img width="300" height="580" src="https://github.com/eshinkawa/carFinderFlutter/blob/master/assets/screenshots/android-screenshot.jpg">
-    <img width="300" height="580" src="https://github.com/eshinkawa/carFinderFlutter/blob/master/assets/screenshots/iphone-screenshot.PNG">
+  <img width="300" height="580" src="https://github.com/eshinkawa/ricky-morty-flutter/blob/master/assets/screenshots/screenshot1.png">
+    <img width="300" height="580" src="https://github.com/eshinkawa/ricky-morty-flutter/blob/master/assets/screenshots/screenshot2.png">
 </p>
 
 ## TODO
